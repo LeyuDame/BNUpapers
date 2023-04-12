@@ -29,6 +29,6 @@
 
 ## 链接
 
-- [GitHub](https://github.com/LeyuDame/BNUpapers)
-- [Overleaf](https://www.overleaf.com/latex/templates/bnuke-cheng-lun-wen-mo-ban/bcwvxncqffkw)
+- [GitHub：https://github.com/LeyuDame/BNUpapers](https://github.com/LeyuDame/BNUpapers)
+- [Overleaf：https://www.overleaf.com/latex/templates/bnuke-cheng-lun-wen-mo-ban/bcwvxncqffkw](https://www.overleaf.com/latex/templates/bnuke-cheng-lun-wen-mo-ban/bcwvxncqffkw)
 
